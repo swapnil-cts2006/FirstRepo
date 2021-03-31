@@ -1,1 +1,2 @@
-THis file is added thru GitHub
+This file is added thru GitHub
+Added new line in the HubFile
